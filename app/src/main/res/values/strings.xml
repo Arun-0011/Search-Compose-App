@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchComposeApp</string>
+    <string name="selected_values_are">Selected values are: %1$s</string>
+    <string name="search">Search..</string>
+    <string name="str_no_item_selected">No item selected</string>
+    <string name="selected_fruit_is">"Selected fruit is:"</string>
+</resources>
